@@ -80,10 +80,9 @@ Zac is equipped with Path Validation. If he attempts to access a file outside of
 
 Step	Windows	macOS	Linux
 
-Ollama	.exe Installer	.zip / .dmg	Curl script
+Ollama, .exe Installer,	.zip / .dmg	Curl script
 
-Python Command	python	python3	python3
+Python Command	python,	python3,	python3
 
-Activate Venv	.\venv\Scripts\activate	source venv/bin/activate	source venv/bin/activate
+Activate Venv	.\venv\Scripts\activate,	source venv/bin/activate,	source venv/bin/activate
 
-“I’m Zac. I’m here to write code and chew bubblegum... and I’m all out of bubblegum. (But I have plenty of syntax errors for you to fix.)”
